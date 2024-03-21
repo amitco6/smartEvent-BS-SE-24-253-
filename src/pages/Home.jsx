@@ -32,7 +32,7 @@ export default function Home() {
               height:"700px"
             }}
           >
-            Plan The Best Event Ever
+            Plan The Best Event Ever.
           </h1>
           <p
             style={{
