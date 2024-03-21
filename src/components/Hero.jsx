@@ -1,5 +1,4 @@
 import heroImg from "../assets/photo1.jpg";
-import "./HeroStyles.css";
 
 
 export default function Hero() {

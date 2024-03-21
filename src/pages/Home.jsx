@@ -20,6 +20,7 @@ export default function Home() {
             top: "55%",
             left: "50%",
             transform: "translate(-50%, -50%)",
+            
           }}
           className="hero-text"
         >
@@ -28,19 +29,20 @@ export default function Home() {
               fontSize: "3rem",
               fontWeight: "800",
               color: "#fff",
-              height: "700px",
+              height:"700px"
             }}
           >
-            Plan The Best Event Ever
+            Plan The Best Event Ever.
           </h1>
           <p
             style={{
               fontSize: "1.3rem",
               color: "#fff",
               padding: "0.5rem 0 2rem 0",
+              
             }}
           >
-            Plan Weddings, Bar-Mitzvahs, Birthdays.
+            Plan Your next Event, easier than ever
           </p>
           <a href="/">Travel Plan</a>
         </div>
