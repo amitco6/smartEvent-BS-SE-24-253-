@@ -13,7 +13,7 @@ export default function SignIn() {
           justifyContent: "center",
           alignItems: "center",
           minHeight: "100vh",
-          backgroundImage: "url(https://images.pexels.com/photos/844928/pexels-photo-844928.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)",
+          backgroundImage: "url(https://images.pexels.com/photos/219101/pexels-photo-219101.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)",
           backgroundSize:"cover",
           backgroundPosition:"center"
 
